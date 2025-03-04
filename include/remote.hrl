@@ -1,0 +1,1 @@
+-compile({parse_transform, remote_parse_transform}).
